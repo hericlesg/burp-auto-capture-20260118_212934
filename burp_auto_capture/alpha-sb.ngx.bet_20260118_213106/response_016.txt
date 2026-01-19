@@ -1,0 +1,27 @@
+HTTP/2 200 OK
+Date: Mon, 19 Jan 2026 00:30:27 GMT
+Content-Type: application/json; charset=utf-8
+Etag: W/"1bf-NXZJ7NlZ0OEZH9u3/9I+XyTxt54"
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+X-Cache: Miss from cloudfront
+Via: 1.1 deb4333d946544018e87e421a8d3f79a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA50-P6
+X-Amz-Cf-Id: mEueQb6CkhaYMN27qI6SCS6FQQoEYG_x-YY66ckw4rZ8AhZrCALDLA==
+Cf-Cache-Status: DYNAMIC
+Speculation-Rules: "/cdn-cgi/speculation"
+Server: cloudflare
+Cf-Ray: 9c02393f8f27af6e-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+[{"_id":"696d7b22206c46002898f58b","expiration_code":"2026-01-19T00:40:26.529Z","communication_method":"EMAIL","email":"julia96147413@uorak.com","created_at":"2026-01-19T00:30:26.530Z","expiry_in_seconds":598.677},{"_id":"696d7b22206c46002898f58c","expiration_code":"2026-01-19T00:40:26.529Z","communication_method":"CONTACT","contact_country_code":"55","contact":"83925917640","created_at":"2026-01-19T00:30:26.530Z","expiry_in_seconds":598.677}]
