@@ -1,0 +1,16 @@
+GET /g/collect?v=2&tid=G-30QTGFS905&gtm=45je61e1v9227752469z89236619191za20gzb9236619191zd9236619191&_p=1768782502471&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1212742195.1768593719&ecid=26166359&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=c&_eu=AAAACAQ&sst.etld=google.com.br&sst.tft=1768782502471&sst.lpc=230194561&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=2&tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391252~115938466~115938468~117041588&uid=696d7a8e56343a0028067c75&sid=1768782507&sct=3&seg=1&dl=https%3A%2F%2Fwww.lottu.bet.br%2Fhome&dt=Lottu&_tu=BA&en=login&ep.dob=19860928&ep.event_id=1768782839754_17687830823707&_et=44052&ep.user_data.email_address=julia96147413%40uorak.com&ep.user_data.phone_number=%2B5583925917640&ep.user_data.address.first_name=ederton&ep.user_data.address.last_name=da%20rosa%20de%20melo&tfd=105099&richsstsse HTTP/2
+Host: lto.lottu.bet.br
+Cookie: _ga_30QTGFS905=GS2.1.s1768782507$o3$g1$t1768782606$j60$l0$h26166359; _ga=GA1.1.1212742195.1768593719; _gcl_au=1.1.884712419.1768593719; _clck=1tb39xw%5E2%5Eg2u%5E0%5E2207; FPID=FPID2.3.isDlpxJb%2Fnyt%2FI4IoQF3bsUdCC%2BHUhcceD8Qsfit96I%3D.1768593719; _fbp=fb.2.1768593719788.39331018432126272; _gtmeec=eyJlbSI6IjI2NmM2YjY5NWQxMTZhZWQwNGNiMDZhZmExZTNjNjM3NjcwMTE3ODFjMTZlMmFlZTNmMDVjYjQxM2M4Njk0Y2IiLCJwaCI6ImQ1MWE2YWQ2NzQzMjIyODhlZGRjNmVmOGFjYTFmZmY4NzY1OGRjZGQzZmM4ZWQ1NDBjZmE0NzAwMWQ2NGEzNjciLCJsbiI6IjIzOTNmNTg1MjVhZjJhNGZiZjNmYTA2Mjk5ZjFlMjc5Y2QzNjE5ODUyMWJjNmQ4YmRlNGYzOGEyYjZlNTYxZDYiLCJmbiI6IjZmMGFiOGE4Y2NmOWQyNzAwOGIwNzRkYTdkNWQyMDFiZWYxYTIyNmM4NzE3MTY4YWEwMjk2YzJlMmMzZGUzY2UiLCJkYiI6IjQ0NTk3YTBlNDNjZmUyODBjZjIwYTQ4MDA4ZWUyZmNjNTM5NGIzYzEzODQzNDIyYzE5ZDA1MmRlYjJiMjc1MDAiLCJleHRlcm5hbF9pZCI6IjBkZDdjOWFmMTRhZTU0NTE3MDU0MjBhZGIwNjdiN2U1NWFlNGU2YjdhNzhmNTUxNDIyMDk3YTA5MDc3NDQwMjIifQ%3D%3D; FPLC=2W5lQOLOrpun4ldql1FugJ%2BuDSut8UYxcuJJ%2FH4PtFSLL60WKFMSs%2BRcHuNGbf9fAIqc4gSYtGHzIVfXFLbFzBJL1H%2FSDbK5Bl3VEFtG209R92itkJCRXrZo3uBQ0A%3D%3D; _clsk=1ifz5bb%5E1768782578446%5E2%5E0%5Ei.clarity.ms%2Fcollect
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+X-Effective-Origin: https://www.lottu.bet.br
+X-Effective-Referer: https://www.lottu.bet.br/home
+Referer: https://lto.lottu.bet.br/_/service_worker/6150/sw.js?origin=https%3A%2F%2Fwww.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=4
+Te: trailers
+
