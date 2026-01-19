@@ -1,0 +1,55 @@
+{
+  "capture_timestamp": "20260118_213002", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/i.clarity.ms_20260118_213002/request_001.txt", 
+      "url": "https://i.clarity.ms:443/collect", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/i.clarity.ms_20260118_213002/response_001.txt", 
+      "timestamp": 1768782576292
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/i.clarity.ms_20260118_213002/request_002.txt", 
+      "url": "https://i.clarity.ms:443/collect", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/i.clarity.ms_20260118_213002/response_002.txt", 
+      "timestamp": 1768782578440
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/i.clarity.ms_20260118_213002/request_003.txt", 
+      "url": "https://i.clarity.ms:443/collect", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/i.clarity.ms_20260118_213002/response_003.txt", 
+      "timestamp": 1768782578742
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/i.clarity.ms_20260118_213002/request_004.txt", 
+      "url": "https://i.clarity.ms:443/collect", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/i.clarity.ms_20260118_213002/response_004.txt", 
+      "timestamp": 1768782580087
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/i.clarity.ms_20260118_213002/request_005.txt", 
+      "url": "https://i.clarity.ms:443/collect", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/i.clarity.ms_20260118_213002/response_005.txt", 
+      "timestamp": 1768782582689
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/i.clarity.ms_20260118_213002/request_006.txt", 
+      "url": "https://i.clarity.ms:443/collect", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/i.clarity.ms_20260118_213002/response_006.txt", 
+      "timestamp": 1768782588612
+    }
+  ], 
+  "host": "i.clarity.ms", 
+  "total_requests": 6
+}
