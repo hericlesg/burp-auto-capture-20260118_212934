@@ -1,0 +1,419 @@
+HTTP/2 200 OK
+Date: Mon, 19 Jan 2026 00:31:43 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Content-Length: 13800
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-title" content="Gerador de Email TemporÃ¡rio">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="description" content="Gerador de email temporÃ¡rio e descartÃ¡vel para criar um endereÃ§o de email provisÃ³rio e manter sua caixa de email verdadeira limpa e segura.">
+	<meta property="og:title" content="Gerador de Email TemporÃ¡rio">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.invertexto.com/gerador-email-temporario">
+	<meta property="og:image" content="https://cdn.invertexto.com/img/face-note.png">
+	<meta property="og:site_name" content="invertexto.com">
+	<meta property="og:description" content="Gerador de email temporÃ¡rio e descartÃ¡vel para criar um endereÃ§o de email provisÃ³rio e manter sua caixa de email verdadeira limpa e segura.">
+	<meta property="fb:app_id" content="515652911960455">
+	<title>Gerador de Email TemporÃ¡rio | invertexto.com</title>
+
+	<link rel="canonical" href="https://www.invertexto.com/gerador-email-temporario">
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+	<link rel="stylesheet" href="https://cdn.invertexto.com/css/app.css?id=20240307">
+	<link rel="apple-touch-icon" href="https://cdn.invertexto.com/img/apple-touch-icon.png">
+</head>
+<body>
+	<header class="hidden-print">
+		<div class="top">
+			<div class="container" style="height:100%">
+				<div style="height:100%;display:flex;justify-content:space-between;align-items:center">
+					<div style="padding-right:24px;margin-top:36px;margin-bottom:31px">
+						<a href="/">
+							<img src="https://cdn.invertexto.com/img/invertexto.png" style="width:263px;height:48px" alt="invertexto.com">
+						</a>
+					</div>
+					<div id="topads" style="width:100%">
+													<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1714195545121238"
+							crossorigin="anonymous"></script>
+							<!-- Top -->
+							<ins class="adsbygoogle"
+							style="display:block"
+							data-ad-client="ca-pub-1714195545121238"
+							data-ad-slot="4449009840"
+							data-ad-format="horizontal"
+							data-full-width-responsive="true"></ins>
+							<script>
+							(adsbygoogle = window.adsbygoogle || []).push({});
+							</script>
+											</div>
+				</div>
+			</div>
+		</div>
+
+		<nav class="navbar navbar-default navbar-static-top">
+			<div class="container">
+				<style>
+					a.btnInsta{display:block;background-color:#D83277;height:20px;color:#fff;font-size:12px;padding:0 6px;line-height:20px;border-radius:4px;float:left}
+					a.btnInsta:hover,a.btnInsta:focus{text-decoration:none;color:#fff}
+				</style>
+				<div class="like pull-left">
+					<a href="https://www.instagram.com/invertexto/" target="_blank" rel="nofollow noopener" class="btnInsta"><strong>Siga</strong> @invertexto</a>
+				</div>
+
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Menu">
+				    <span class="icon-bar"></span>
+				    <span class="icon-bar"></span>
+				    <span class="icon-bar"></span>
+				  </button>
+				</div>
+				<div id="navbar" class="collapse navbar-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="/">Home</a></li>
+						<li><a href="/blog">Blog</a></li>
+						<li><a href="https://api.invertexto.com" target="_blank" rel="nofollow">API</a></li>
+						<li><a href="/sobre">Sobre</a></li>
+						<li><a href="/contato">Contato</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</header>
+
+	
+	<main>
+		
+<style>
+.text-muted{color:#999 !important}
+.config-box{max-width:320px;margin:0 auto;}
+.config-box h2{font-size:16px;margin:0 0 15px 0;text-align:center}
+.config-box .form-control[readonly]{background-color:#fff}
+.maillist{background-color:#fff;border:1px solid #ddd;margin-top:24px;min-height:278px}
+.inbox-table{background-color:#fff;margin-bottom:0}
+.inbox-table thead{height:40px}
+.inbox-table thead th{background-color:#44525d;color:#fff;border-bottom:0 !important;padding:8px 15px !important;font-weight:normal}
+.inbox-table td{padding:15px !important}
+.inbox-table tbody tr{cursor:pointer}
+.inbox-table tbody tr td{border-top:none !important;border-bottom: 1px solid #ddd}
+.inbox-table tbody tr:hover{background-color:#f9f9f9}
+.empty{text-align:center;margin-top:50px;font-size:20px;color:#bbb}
+.panel-dark{border-radius:0;border:1px solid #ddd}
+.panel-dark .panel-heading{background-color:#44525d;color:#fff;border-radius:0;padding:8px 15px;border-bottom:none}
+@media (max-width: 767px){
+	.table-responsive{border:none;margin:0}
+	.empty{font-size:18px}
+	.expand{margin-left:-15px;margin-right:-15px;border:none}
+}
+.table>thead>tr>th,.table>tbody>tr>th,.table>tfoot>tr>th,.table>thead>tr>td,.table>tbody>tr>td,.table>tfoot>tr>td{
+	line-height: 1.5 !important;
+}
+#back{cursor:pointer;}
+.inbox-header{display:flex;justify-content: space-between}
+.onemail{margin-top:24px}
+.onemail hr{margin:12px 0 12px 0 !important}
+.onemail .inbox-message{padding-top:10px;min-height:100px;overflow:hidden}
+
+.spin{
+	-webkit-animation:spin 1s linear infinite;
+	-moz-animation:spin 1s linear infinite;
+	animation:spin 1s linear infinite;
+}
+</style>
+<div class="container">
+	<h1>Gerador de Email TemporÃ¡rio</h1>
+	<div class="alert alert-warning" id="unavailable" style="display:none"></div>
+	<div class="expand" style="padding:25px 0 35px 0;background-color:#fff">
+		<div class="config-box">
+			<h2>Seu endereÃ§o de email temporÃ¡rio:</h2>
+			<div class="input-group">
+				<input type="text" class="form-control" id="email-input" value="julia96147413@uorak.com" readonly>
+				<span class="input-group-btn">
+					<button class="btn btn-default" type="button" id="copiar" title="Copiar" aria-label="Copiar" data-clipboard-target="#email-input"><span class="glyphicon glyphicon-copy text-muted"></span></button>
+					<button class="btn btn-default" type="button" id="editar" title="Editar" aria-label="Editar"  data-toggle="modal" data-target="#editModal"><i class="glyphicon glyphicon-edit text-muted"></i></button>
+				</span>
+			</div>
+		</div>
+	</div>
+
+	<div class="maillist expand">
+		<div class="table-responsive">
+			<table class="table inbox-table">
+				<thead>
+					<tr>
+						<th>Remetente</th>
+						<th>Assunto</th>
+						<th>Hora</th>
+					</tr>
+				</thead>
+				<tbody>
+									</tbody>
+			</table>
+		</div>
+
+		<div class="empty"><i class="glyphicon glyphicon-refresh spin"></i> Aguardando recebimento de e-mail</div>
+	</div>
+
+	<div class="panel panel-dark onemail hide expand">
+		<div class="panel-heading">
+			<span id="back"><i class="glyphicon glyphicon-menu-left"></i> Voltar para a lista</span>
+		</div>
+		<div class="panel-body">
+			<div class="inbox-header">
+				<div class="remetente">
+					<div id="sender"></div>
+					<div id="from" class="text-muted"></div>
+				</div>
+				<div class="data">
+					<div>&nbsp;</div>
+					<div id="created_at" class="text-muted"></div>
+				</div>
+			</div>
+			<hr>
+			<div class="inbox-subject">
+				<div><b class="text-muted">Assunto:</b> <span id="subject"></span></div>
+			</div>
+			<hr>
+			<div id="body" class="inbox-message"></div>
+		</div>
+	</div>
+
+	<div class="box" style="margin-top:24px">
+			<p>Este serviÃ§o permite que vocÃª tenha um email temporÃ¡rio que Ã© excluÃ­do automaticamente apÃ³s um perÃ­odo.</p>
+			<p>Ãtil para cadastros em promoÃ§Ãµes ou sites aleatÃ³rios e evitar que mensagens de SPAM sejam enviadas para o seu email verdadeiro.</p>
+			<p style="margin-bottom:0">Obs: este endereÃ§o de email Ã© descartÃ¡vel, apÃ³s <b>1 hora</b>, a conta e as mensagens serÃ£o apagadas.</p>
+	</div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="editModal" tabindex="-1" role="dialog">
+	<div class="modal-dialog modal-sm" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+				<h4 class="modal-title">Alterar Email</h4>
+			</div>
+			<div class="modal-body">
+				<div class="input-group">
+					<input type="text" class="form-control" id="new_email" spellcheck="false" style="text-transform:lowercase">
+					<span class="input-group-addon">@uorak.com</span>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+				<button type="button" class="btn btn-custom" id="change" disabled="true">OK</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+function run(){
+
+	let emails = [];
+	$('.config-box button').focus(function(){
+		this.blur();
+	});
+
+	$('.config-box input').click(function(){
+		this.select();
+	});
+
+	$('#editModal').on('shown.bs.modal', function () {
+		$('#new_email').focus();
+	});
+
+	$('#new_email').keyup(function(){
+		$('#change').prop('disabled', $(this).val().length==0);
+	});
+
+	$('#change').click(function(){
+		let email = $('#new_email').val().toLowerCase()+'@uorak.com';
+		window.location = '?email='+email;
+	});
+
+	$('#new_email').keydown(function(e){
+		if(e.keyCode == 13) $('#change').click();
+	});
+
+	function createShadowRoot(element, content) {
+		let shadowRoot;
+		if (element.shadowRoot) {
+			shadowRoot = element.shadowRoot;
+		} else {
+			shadowRoot = element.attachShadow({ mode: 'open' });
+		}
+		shadowRoot.innerHTML = content;
+	}
+
+	function showEmailContent(email){
+		$('#sender').html(email.sender);
+		$('#from').html(email.sender_email);
+		$('#created_at').html(email.created_at);
+		$('#subject').html(email.header_subject);
+		$('.onemail').removeClass('hide');
+		$('.maillist').addClass('hide');
+		const emailBodyContainer = document.getElementById('body');
+		createShadowRoot(emailBodyContainer, email.body);
+	}
+
+	function showEmailList(){
+		$('.onemail').addClass('hide');
+		$('.maillist').removeClass('hide');
+	}
+
+	$('.inbox-table tbody').on('click', 'tr', function(){
+		let id = $(this).attr('id');
+		let email = emails.find(email => email.id == id);
+		if(email){
+			history.pushState({ emailId: id }, null, `#e${id}`);
+			showEmailContent(email);
+		}
+	});
+
+	$('#back').click(function(){
+		if(history.state && history.state.emailId){
+			history.back();
+			return;
+		}
+		showEmailList();
+		history.replaceState(null, null, '/gerador-email-temporario?email=julia96147413@uorak.com');
+	});
+
+	// Clipboard
+	$('#copiar').tooltip({
+		trigger: 'manual',
+		placement: 'bottom'
+	});
+
+	function setTooltip(btn, message) {
+		btn.attr('data-original-title', message)
+		.tooltip('show');
+	}
+
+	function hideTooltip(btn) {
+		setTimeout(function() {
+			btn.tooltip('hide');
+		}, 1000);
+	}
+
+	var clipboard = new ClipboardJS('#copiar');
+	clipboard.on('success', function(e) {
+		var btn = $(e.trigger);
+		setTooltip(btn, 'Copiado');
+		hideTooltip(btn);
+		e.clearSelection();
+	});
+
+	// Request 2
+	if (typeof(EventSource) === "undefined") {
+		return alert("Seu navegador nÃ£o suporta server-sent events.");
+	}
+
+	let source;
+	let error = false;
+	let reconnectTimeout;
+
+	function connectSSE(){
+		source = new EventSource("https://uorak.com/sse?token=sehtMEdNzH0aHjDp");
+
+		source.addEventListener('mail', (e) => {
+			if(error){
+				$('#unavailable').hide();
+				error = false;
+				clearTimeout(reconnectTimeout);
+			}
+
+			if(e.data == 'stop'){
+				source.close();
+				$('.empty').hide();
+				$('#unavailable').html('Caixa de email apagada. <a href="gerador-email-temporario?email=julia96147413@uorak.com">Clique aqui para utilizÃ¡-la novamente</a>.').show();
+				return;
+			}
+
+			const data = JSON.parse(e.data);
+			if(data.length > 0){
+				$('.empty').hide();
+				$.each(data, function(i, d){
+					$('.inbox-table tbody').prepend('<tr id="'+d.id+'"><td>'+d.sender+'</td><td>'+d.header_subject+'</td><td>'+d.hora+'</td></tr>');
+					emails.push(d);
+				});
+			}
+		});
+
+		source.onerror = function(e) {
+			error = true;
+			source.close();
+			$('#unavailable').text('ServiÃ§o indisponÃ­vel, tentando reconectar...').show();
+
+			reconnectTimeout = setTimeout(connectSSE, 5000);
+		};
+	}
+
+	connectSSE();
+
+	// API History
+	$(document).ready(function() {
+		if (window.location.hash.startsWith('#e')) {
+			let id = window.location.hash.replace('#e', '');
+			let email = emails.find(email => email.id == id);
+			if (email) {
+				showEmailContent(email);
+			}
+		} else {
+			showEmailList();
+		}
+	});
+
+	window.addEventListener('popstate', function(event) {
+		if (event.state && event.state.emailId) {
+			let email = emails.find(email => email.id == event.state.emailId);
+			if (email) {
+				showEmailContent(email);
+			}
+		} else {
+			showEmailList();
+		}
+	});
+}
+</script>
+	</main>
+
+			<div class="container hidden-print">
+			<div class="bottom-banner">
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1714195545121238"
+				crossorigin="anonymous"></script>
+				<!-- Bottom -->
+				<ins class="adsbygoogle"
+				style="display:block"
+				data-ad-client="ca-pub-1714195545121238"
+				data-ad-slot="6345858528"
+				data-ad-format="auto"
+				data-full-width-responsive="true"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+		</div>
+	
+	<footer class="hidden-print"></footer>
+
+	<script src="https://cdn.invertexto.com/js/app-v1.2.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
+	<script>
+	if (typeof run === "function") { 
+    	run();
+	}
+	</script>
+</body>
+</html>
