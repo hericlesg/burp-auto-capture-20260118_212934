@@ -1,0 +1,29 @@
+HTTP/2 200 OK
+Date: Mon, 19 Jan 2026 00:29:48 GMT
+Content-Type: application/json; charset=utf-8
+Authorization: f046517c-eb30-476e-8941-cf55e85be1cb
+Vary: X-HTTP-Method-Override
+Vary: accept-encoding
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+Etag: W/"eff-VPAdBRuOLYobe4heIKXKNYewtag"
+X-Cache: Miss from cloudfront
+Via: 1.1 74207549456b865bb0d85b6ce7dc9562.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA50-P7
+X-Amz-Cf-Id: R7HtWmtpu3ODiCq-kAhfeYmSRHqY2yexoWyHkjZlIdpGKPQxbW9VGg==
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9c023845ab46ae69-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"_id":"696d7a8e56343a0028067c75","username":"julia96147413@uorak.com","name":"EDERTON DA ROSA DE MELO","type":"CLIENT","credits":0,"birth_date":"1986-09-28T03:00:00.000Z","goal":0,"limits":{"additional":{"weekly_individual":0,"weekly_double":0,"weekly_total":0},"card":{"daily_limit":0,"weekly_limit":0},"online_credit":{"daily_limit":0,"weekly_limit":0},"casino":{},"manual_transfer":{"deposit":{},"withdraw":{}},"individual_event":0,"individual":0,"double":0,"total":0,"weekly_individual":0,"weekly_double":0,"weekly_total":0},"contact":"83925917640","contact_country_code":"55","address":{"country":"BR","state":"RS","city":"NOVO HAMBURGO","neighborhood":"VILA NOVA","street":"ALBERTO DRESBACH","number":"671","zipcode":"93525020","complement":"AP 1"},"permissions":{"manual_transfer":{"deposit":false,"withdraw":false},"config":{"two_factor_auth":false,"kyc":false},"sub_admin":false,"supervisor_manage_user":false,"change_limits":false,"bets":false,"general_events":false,"deposit_confirmation":false,"withdrawal_confirmation":false,"full_access_affiliates":false,"show_counting":false,"show_statistics":false,"credit":false,"debit":false,"manual_transaction":false,"manage_affiliation":false,"client_details":false,"kyc_confirmation":false,"show_user_financial":false,"account_reactivation":false,"company":false,"casino":false,"sportsbook":false,"general_config":false,"view_config":false,"create_admin_users":false,"request_withdraw":false},"odds_percentage":0,"return_percent":0,"bank_info":{},"bank_accounts":[],"pix":{},"cpf":"00756542022","email":"julia96147413@uorak.com","document":"00756542022","document_type":"CPF","document_info":{},"accept_notifications":true,"currency":"BRL","additional_documents":[],"affiliation":{"affiliate":"693983763db2ce000b209bca","is_affiliate":false},"statistics":{"deposit":{"first":""}},"self_management":{"limits":{"deposit":{"daily":0,"weekly":0,"monthly":0,"yearly":0},"bet":{"daily":0,"weekly":0,"monthly":0,"yearly":0},"loss":{"daily":0,"weekly":0,"monthly":0,"yearly":0},"session":{"daily":0,"weekly":0,"monthly":0,"yearly":0}},"break_period":{},"alerts":{"break_period":{"enable":false},"bet":{"enable":false,"daily":0,"weekly":0,"monthly":0}}},"two_factor_auth":{"enable":false},"payments":{"deposit":{"pix":{"min_value":0,"max_value":0,"pending_limit":0},"manual":{"min_value":0,"max_value":0},"general":{"min_value":0,"max_value":0}},"withdraw":{"pix":{"automatic":{"max_value":0},"interval":{"enable":false,"hours":0,"amount":0,"limit":0},"min_value":0,"max_value":0,"daily_limit":0,"daily_amount":0},"manual":{"automatic":{"max_value":0},"interval":{"enable":false,"hours":0,"amount":0,"limit":0},"min_value":0,"max_value":0,"daily_limit":0,"daily_amount":0},"general":{"automatic":{"max_value":0},"interval":{"enable":false,"hours":0,"amount":0,"limit":0},"min_value":0,"max_value":0,"daily_limit":0,"daily_amount":0}}},"last_location":{"state":"GO","city":"GoiÃÂ¢nia","country":"BR","lat":"-16.67861","lng":"-49.25389","type":"AUTOMATIC","ip_address":"189.63.32.159, 172.71.6.129, 15.158.210.67","updated_at":"2026-01-19T00:29:47.920Z"},"casino":{"bonus":{"balance_usage_mode":"CREDITS_FIRST"}},"ngx":{"atp":{},"gamification":{}},"info":{"status":"INACTIVE","reason":"PENDING_ACTIONS"},"token_expiration_date":"2026-01-19T04:29:47.920Z","pending_actions":[{"action":"CONFIRMATION_EMAIL_OR_CONTACT","status":"PENDING"},{"action":"USER_DATA_UPDATE","status":"COMPLETED"},{"action":"KYC","status":"COMPLETED"}],"registration":{},"kyc":{},"available_notifications":[],"registration_data_status":[{"data":"USER_DATA","status":"NA"},{"data":"BANK_ACCOUNTS","status":"NA"},{"data":"ADDRESS","status":"OK"},{"data":"KYC","status":"NOK"},{"data":"CONTACT","status":"NOK"},{"data":"EMAIL","status":"NOK"}],"company":{"_id":"68783a6d49550000282c102d","accountability_method":"CREDIT"}}
