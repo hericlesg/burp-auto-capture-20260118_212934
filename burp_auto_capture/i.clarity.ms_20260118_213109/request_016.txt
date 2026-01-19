@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: i.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1270
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: close
+
+{"e":["0.8.47",1,0,108,"uj2vrhi9rg","1tb39xw","1ifz5bb",3,0,0,0,"https://www.lottu.bet.br/home"],"a":[[2,8,1199,882],[33,11,1199,882],[33,28,1],[35,29,441,441,441,441,441,441,459,4923,4923,4924,0,0,"navigate","",0,0],[107,34,"_clck",["1tb39xw^2^g2u^0^2207"]],[26710,4,1,1199,882,1199,882,0,0,831,506,26591,0,25942,831,506,25942,546,544,8739,554,545,8801,830,506,25895,null],[107,1,0,["Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"],1,["https://www.lottu.bet.br/home"],3,["Lottu"],4,["www.lottu.bet.br","static.cloudflareinsights.com","alpha-sb.ngx.bet","cdn.jsdelivr.net","avplayer-cdn.akamaized.net","ngx-css.s3.amazonaws.com","widgets.sir.sportradar.com","main.d38jx4gy8rg457.amplifyapp.com","www.googletagmanager.com","d2gkokpmimkb9y.cloudfront.net","ngx-images.ngx.bet","r2-images.ngx.bet","d1nrstkqiew61k.cloudfront.net","www.clarity.ms","countries.ngx.bet","img.sportradar.com","cdn.lottu.bet.br"],9,["pt-BR"],15,["18rqymg"],16,["pt-br"],19,["website"],20,["Lottu"],22,["Win32"],26,["1"],28,["2207"],29,["2"],34,["America/Sao_Paulo"],35,["180"],36,["1"],37,["128"]],[107,0,0,1768782604602,1,0,3,44,4,46,5,4,6,31,7,1,8,2923,10,22,14,2560,15,1080,16,24,25,15,26,0,29,1,31,1,32,0,33,12,35,0,39,1],[107,36,6,[82,0]],[108,47,0,1,1]]}
