@@ -1,0 +1,79 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Mon, 19 Jan 2026 00:28:58 GMT
+Content-Type: text/event-stream
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
+event: mail
+data: []
+
