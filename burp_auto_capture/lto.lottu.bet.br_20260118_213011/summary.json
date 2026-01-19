@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260118_213011", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/lto.lottu.bet.br_20260118_213011/request_001.txt", 
+      "url": "https://lto.lottu.bet.br:443/g/collect?v=2&tid=G-30QTGFS905&gtm=45je61e1v9227752469z89236619191za20gzb9236619191zd9236619191&_p=1768782502471&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1212742195.1768593719&ecid=26166359&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=c&_eu=AAAACAQ&sst.etld=google.com.br&sst.tft=1768782502471&sst.lpc=230194561&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=2&tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391252~115938466~115938468~117041588&uid=696d7a8e56343a0028067c75&sid=1768782507&sct=3&seg=1&dl=https%3A%2F%2Fwww.lottu.bet.br%2Fhome&dt=Lottu&_tu=BA&en=login&ep.dob=19860928&ep.event_id=1768782839754_17687830823707&_et=44052&ep.user_data.email_address=julia96147413%40uorak.com&ep.user_data.phone_number=%2B5583925917640&ep.user_data.address.first_name=ederton&ep.user_data.address.last_name=da%20rosa%20de%20melo&tfd=105099&richsstsse", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/lto.lottu.bet.br_20260118_213011/response_001.txt", 
+      "timestamp": 1768782606924
+    }
+  ], 
+  "host": "lto.lottu.bet.br", 
+  "total_requests": 1
+}
