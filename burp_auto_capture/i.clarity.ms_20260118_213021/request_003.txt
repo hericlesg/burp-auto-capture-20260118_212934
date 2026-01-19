@@ -1,0 +1,19 @@
+POST /collect HTTP/1.1
+Host: i.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 920
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"e":["0.8.47",9,68407,2826,"uj2vrhi9rg","1tb39xw","1ifz5bb",1,1,1,0,"https://www.lottu.bet.br/signin"],"a":[[71152,50,1],[70740,12,125,1187,100],[70756,12,145,1173,93],[70771,12,145,1166,89],[70787,12,145,1162,86],[70803,12,145,1158,82],[70817,12,145,1155,78],[70834,12,145,1154,75],[70850,12,395,1154,72],[70865,12,395,1153,71],[70881,12,395,1153,69],[70896,12,395,1153,68],[70928,12,395,1153,65],[70942,12,393,1152,64],[70959,12,393,1152,63],[70975,12,393,1152,61],[70990,12,393,1151,59],[71006,12,393,1151,58],[71037,12,393,1151,57],[71131,13,393,1151,57],[71209,14,393,1151,57],[71209,9,393,1151,57,17293,24029,0,1,0,"Entrar",null,"8g3zkqo2k.89foz929r",1,1,36,30,"span","mdc-button__label",""],[68406,4,1,1199,882,1199,882,0,0,1188,92,68287,0,65553,1188,92,65553,null,null,null,null,null,null,1174,89,65553,null],[71232,0,2,1109,3,7,4,4,5,11,25,36,28,1747],[71232,36,6,[69435,39,69803,0,70481,0,70935,12,71155,3]]]}
