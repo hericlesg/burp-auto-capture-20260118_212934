@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Mon, 19 Jan 2026 00:30:07 GMT
+Set-Cookie: FPID=FPID2.3.isDlpxJb%2Fnyt%2FI4IoQF3bsUdCC%2BHUhcceD8Qsfit96I%3D.1768593719; Max-Age=63072000; Domain=lottu.bet.br; Path=/; Secure; HttpOnly
+Set-Cookie: _fbp=fb.2.1768593719788.39331018432126272; Max-Age=7776000; Domain=lottu.bet.br; Path=/; SameSite=Lax; Secure
+Set-Cookie: _gtmeec=eyJlbSI6IjU1N2ZjZjcyOWI3YTk2YjgyZDg4NDZhNWY3MjE0YjRjMjQ2ZDcxMDBiMTQ2N2ZkNDljYWNmZGFhMGRhMzg1MmMiLCJwaCI6ImExODk5MmExNzhhODUxM2M4NWY2YmE3OTcxMTZmYzIzMjg3N2ZmNDBlNjcxYjk0ZDA2NmQ2N2VhYTMwZDcyZjciLCJsbiI6ImQ0NGJjZDQzMTRhNWM2ODNmNTQ1NTJjZmRmYTQ4YTkxZDZiZTkzNWVhZTE5NTFiOWVlNDgzYWIwNzNjNjQzZjgiLCJmbiI6IjNkNWFjMTAwZTA3Yzc5N2RmN2NmYzJkYzhhMWQxMDgyNDk1MTI3NWU5NjFhZDE3MTY5ODZkNjIyNDAyZmRiNzkiLCJkYiI6Ijc2OTkzZGQzOGU2NDk2MzNiNzY5YjU3OTRiMzIyMzAzYzQ1ZTMxZDIxMTJlNDE5ZjFhZGJkYTk5ZjNmNDM0MTUiLCJleHRlcm5hbF9pZCI6IjFmNTQ0MTY0NjdmZjI2NmY2YjExNTJiNTFiZGE5Mjk1NzlmODM3NDM3YTI1Zjg4YWRjMDhmNzFiN2ExOThlMTEifQ%3D%3D; Max-Age=7776000; Domain=lottu.bet.br; Path=/; SameSite=strict; Secure; HttpOnly
+Trace-Id: 677d8589-9f8c-4b73-9801-7c103b1594d1
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
