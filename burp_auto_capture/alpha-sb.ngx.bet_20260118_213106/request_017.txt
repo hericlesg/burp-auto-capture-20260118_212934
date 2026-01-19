@@ -1,0 +1,15 @@
+GET /event/live-summary HTTP/2
+Host: alpha-sb.ngx.bet
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: Bearer f046517c-eb30-476e-8941-cf55e85be1cb
+If-None-Match: W/"1218a-5XH83aWdUJALWjc8e+kHyQPf96M"
+Te: trailers
+
