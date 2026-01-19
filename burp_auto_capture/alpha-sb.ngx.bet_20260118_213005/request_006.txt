@@ -1,0 +1,16 @@
+GET /event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce HTTP/2
+Host: alpha-sb.ngx.bet
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Authorization: Bearer 3de6b4eb-f51f-4a88-b815-c106bef7e4f0
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+If-None-Match: W/"de4d-hfwDrbdGxgm/NP8Wdls9m+9ePnM"
+Priority: u=4
+Te: trailers
+
