@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20260118_213204", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/pagead2.googlesyndication.com_20260118_213204/request_001.txt", 
+      "url": "https://pagead2.googlesyndication.com:443/pagead/ping?e=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/pagead2.googlesyndication.com_20260118_213204/response_001.txt", 
+      "timestamp": 1768782719671
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/pagead2.googlesyndication.com_20260118_213204/request_002.txt", 
+      "url": "https://pagead2.googlesyndication.com:443/pagead/ping?e=1", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/pagead2.googlesyndication.com_20260118_213204/response_002.txt", 
+      "timestamp": 1768782719713
+    }
+  ], 
+  "host": "pagead2.googlesyndication.com", 
+  "total_requests": 2
+}
