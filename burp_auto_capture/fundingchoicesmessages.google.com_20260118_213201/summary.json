@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20260118_213201", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20260118_213201/request_001.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxXSn2PFrGP3PcKsi3PK3vlH3b74VpNFssrtSlGH0KmDk73Ti8zd1lqYNjC6ntGQpp-Po8rPQS96zQnNbNHt85cgJXxg3i7CFeoMzvj3OGXVlxcLa1uCGnRSYndhhyJHegkdATawPQ==", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20260118_213201/response_001.txt", 
+      "timestamp": 1768782718725
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20260118_213201/request_002.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxXSn2PFrGP3PcKsi3PK3vlH3b74VpNFssrtSlGH0KmDk73Ti8zd1lqYNjC6ntGQpp-Po8rPQS96zQnNbNHt85cgJXxg3i7CFeoMzvj3OGXVlxcLa1uCGnRSYndhhyJHegkdATawPQ==", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20260118_213201/response_002.txt", 
+      "timestamp": 1768782718730
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20260118_213201/request_003.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxXV9qq6DkbiX13ib3I43QwzB9S71Nnoiq5V-ZxGAbOvH1mMvuu1txFcKdACmrENCkcuYFXc9Wb28uESVB2loFAMx7y7FOwI9xyJVMp5_DMY458gv_NmKfwRjGb87-ajcWtEneHEXw==", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20260118_213201/response_003.txt", 
+      "timestamp": 1768782718862
+    }
+  ], 
+  "host": "fundingchoicesmessages.google.com", 
+  "total_requests": 3
+}
