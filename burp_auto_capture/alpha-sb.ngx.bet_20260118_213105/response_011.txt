@@ -1,0 +1,28 @@
+HTTP/2 400 Bad Request
+Date: Mon, 19 Jan 2026 00:30:13 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 35
+Etag: W/"23-dbeTs4VtwegY13HjtUrrloAkQDs"
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+X-Cache: Error from cloudfront
+Via: 1.1 1d8aba607a6f17f08443c36e69ecd9fc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA50-P6
+X-Amz-Cf-Id: cHlXMs9cCE8KVemT_QlbGjwKkaWcQy48vXjv7N8Dourt4oYsiNOldg==
+Cf-Cache-Status: DYNAMIC
+Speculation-Rules: "/cdn-cgi/speculation"
+Server: cloudflare
+Cf-Ray: 9c0238e3dc1daf6e-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"code":3342,"message":"Not found"}
