@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260118_213200", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20260118_213200/request_001.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20260118_213200/response_001.txt", 
+      "timestamp": 1768782634531
+    }
+  ], 
+  "host": "mozilla-ohttp.fastly-edge.com", 
+  "total_requests": 1
+}
