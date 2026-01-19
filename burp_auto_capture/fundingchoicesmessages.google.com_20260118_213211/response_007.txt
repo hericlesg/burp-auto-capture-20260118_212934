@@ -1,0 +1,24 @@
+HTTP/2 204 No Content
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Origin: https://www.invertexto.com
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 19 Jan 2026 00:32:01 GMT
+Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Cross-Origin-Opener-Policy: same-origin
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/ContributorLoggingHttp/cspreport
+Content-Security-Policy: script-src 'nonce-lzTfpNR1aOJMaWt7TC50Cw' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/ContributorLoggingHttp/cspreport;worker-src 'self'
+Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' blob: data: 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/ContributorLoggingHttp/cspreport/allowlist
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+Reporting-Endpoints: default="/_/ContributorLoggingHttp/web-reports?context=eJzjstDikmII0pBi-FB_mfUHEJv53Wa1A-JwLh-2eCDem-PHdhSIMzv92AqBWGezH5sJEAtxczR-33qaTWDB08OBSi5J-YXxyfl5Jal5JbqJKcW6IHZRZlJpSX4RCju1DKQiJz89PTMvPd7IwMjMwNDQVM_ALL7AAABIMjDm"
+Server: ESF
+Content-Length: 0
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
