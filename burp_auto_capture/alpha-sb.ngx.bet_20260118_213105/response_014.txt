@@ -1,0 +1,28 @@
+HTTP/2 400 Bad Request
+Date: Mon, 19 Jan 2026 00:30:26 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 51
+Etag: W/"33-zVYb8rgf4HfDUSmWBabSGucZcbU"
+Vary: X-HTTP-Method-Override
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+X-Cache: Error from cloudfront
+Via: 1.1 c432743fbd6244b2ce511a509e4d15ba.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA50-P6
+X-Amz-Cf-Id: 7acC7qwdlyfRSNbFeNa9KFqOnSrwUmQu7dxCIeAuAvTM-DW8jojE3A==
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9c0239370960af6e-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"code":3227,"message":"Missing confirmation code"}
