@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260118_213201", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ep1.adtrafficquality.google_20260118_213201/request_001.txt", 
+      "url": "https://ep1.adtrafficquality.google:443/getconfig/sodar?sv=200&tid=gda&tv=r20260115&st=env&sjk=144535469162940", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/ep1.adtrafficquality.google_20260118_213201/response_001.txt", 
+      "timestamp": 1768782719139
+    }
+  ], 
+  "host": "ep1.adtrafficquality.google", 
+  "total_requests": 1
+}
