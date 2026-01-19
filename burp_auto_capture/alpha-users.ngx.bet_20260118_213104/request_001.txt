@@ -1,0 +1,17 @@
+POST /login HTTP/2
+Host: alpha-users.ngx.bet
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 166
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Authorization: Bearer 3de6b4eb-f51f-4a88-b815-c106bef7e4f0
+Te: trailers
+
+{"username":"julia96147413@uorak.com","password":"Senha@123","auth_code":null,"useBonus":null,"source":"DESKTOP","external_params":{"_id":"687fe2e555d5760028f0b635"}}
