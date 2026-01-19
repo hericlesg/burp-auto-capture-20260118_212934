@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260118_213105", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.invertexto.com_20260118_213105/request_001.txt", 
+      "url": "https://www.invertexto.com:443/gerador-email-temporario?email=julia96147413@uorak.com", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.invertexto.com_20260118_213105/response_001.txt", 
+      "timestamp": 1768782660034
+    }
+  ], 
+  "host": "www.invertexto.com", 
+  "total_requests": 1
+}
