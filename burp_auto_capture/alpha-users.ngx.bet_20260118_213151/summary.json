@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260118_213151", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/alpha-users.ngx.bet_20260118_213151/request_001.txt", 
+      "url": "https://alpha-users.ngx.bet:443/login", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/alpha-users.ngx.bet_20260118_213151/response_001.txt", 
+      "timestamp": 1768782587351
+    }
+  ], 
+  "host": "alpha-users.ngx.bet", 
+  "total_requests": 1
+}
