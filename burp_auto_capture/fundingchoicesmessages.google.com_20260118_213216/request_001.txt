@@ -1,0 +1,16 @@
+POST /el/AGSKWxXSn2PFrGP3PcKsi3PK3vlH3b74VpNFssrtSlGH0KmDk73Ti8zd1lqYNjC6ntGQpp-Po8rPQS96zQnNbNHt85cgJXxg3i7CFeoMzvj3OGXVlxcLa1uCGnRSYndhhyJHegkdATawPQ== HTTP/2
+Host: fundingchoicesmessages.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.invertexto.com/
+Content-Type: text/plain
+Content-Length: 182
+Origin: https://www.invertexto.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+
+[null,null,null,null,null,null,null,null,1768782718613,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,[null,null,[144535469162940]]]
