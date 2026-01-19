@@ -1,0 +1,17 @@
+GET /sse?token=KOMqtbUwdnqGSR29 HTTP/1.1
+Host: uorak.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: text/event-stream
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.invertexto.com/
+Origin: https://www.invertexto.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+Te: trailers
+Connection: close
+
