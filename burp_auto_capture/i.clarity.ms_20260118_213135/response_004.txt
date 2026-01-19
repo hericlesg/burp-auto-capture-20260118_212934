@@ -1,0 +1,9 @@
+HTTP/1.1 204 No Content
+Server: nginx
+Date: Mon, 19 Jan 2026 00:29:40 GMT
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.lottu.bet.br
+Vary: Origin
+Request-Context: appId=cid-v1:593e4080-f032-4d00-a652-e17f01252a9d
+
